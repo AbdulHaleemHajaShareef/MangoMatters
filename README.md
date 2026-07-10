@@ -89,9 +89,9 @@ MangoMatters/
 
 | Metric              | Value |
 |---------------------|-------|
-| Validation accuracy | 92    |
-| Test accuracy       | 8     |
+| Validation accuracy | 85%  |
+| Test accuracy       | -  |
 | # classes           | 8     |
-| # training images   | 9     |
+| # training images   | 5000    |
 
 
